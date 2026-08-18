@@ -1,0 +1,6 @@
+{
+  "name": "Neighborhood Fresh & Local Market",
+  "description": "Hyperlocal marketplace for organic produce, fresh bakery, dairy, artisan pantry items, and local crafts with fast express delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
